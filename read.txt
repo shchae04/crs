@@ -1,0 +1,14 @@
+Tools
+- java: jdk 11
+- Spring Boot 2.7.5
+- Gradle
+- DB : Oracle (Oracle Driver)
+- Cloud : (not)
+- CI/CD : Jenkins
+
+Spring Security add.
+
+Course Registration System.
+
+ERD:
+MAJOR, USER, COURSE, CLASSES, TAKE_CLASS
